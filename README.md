@@ -1,16 +1,17 @@
-### Hi there 👋
+![Ahmad Melegy Banner](https://raw.github.com/mlegy/mlegy/main/github.png)
 
-<!--
-**mlegy/mlegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img width="45" alt="about" src="https://raw.github.com/mlegy/mlegy/main/about.png"> More about me
+```kotlin
+val AhmadMelegy = developer {
+    about {
+        name = "Ahmad Melegy"
+        company = N26
+        role = Android_Engineer
+    }
+    tech("Kotlin", "Android")
+    links {
+        twitter = "@AhmadMlegy"
+        linkedin = "https://www.linkedin.com/in/melegy/"
+    }
+}
+```
