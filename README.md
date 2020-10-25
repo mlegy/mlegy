@@ -2,7 +2,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/mlegy/mlegy/main/about.png"> More about me
 ```kotlin
-val AhmadMelegy = developer {
+val ahmad = developer {
     about {
         name = "Ahmad Melegy"
         company = N26
