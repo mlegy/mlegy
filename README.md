@@ -10,7 +10,7 @@ val ahmad = developer {
     }
     tech("Kotlin", "Android")
     links {
-        twitter = "@ahmadmlgy"
+        twitter = "@ahmadmlegy"
         linkedin = "https://www.linkedin.com/in/melegy/"
     }
 }
