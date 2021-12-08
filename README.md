@@ -5,8 +5,8 @@
 val ahmad = developer {
     about {
         name = "Ahmad Melegy"
-        company = N26
-        role = Android_Engineer
+        company = DoorDash
+        role = Senior_Android_Engineer
     }
     tech("Kotlin", "Android")
     links {
